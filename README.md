@@ -32,6 +32,6 @@ Contact with me: yojose_6@hotmail.com
 
 <div>
   <h1>Connect with me</h1>
-  Feel free to reach out to me at <a href="mailto:yojose_6@hotmail.com">yojose_6@hotmail.com</a> or at <a href="https://www.linkedin.com/in/josé-ignacio-canelo-06ba71223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé ignacio canelo" height="15" width="20" /></a>
+  Feel free to reach out to me at <a href="mailto:yojose_6@hotmail.com">yojose_6@hotmail.com</a> or at Linkedin <a href="https://www.linkedin.com/in/josé-ignacio-canelo-06ba71223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé ignacio canelo" height="15" width="20" /></a>
 </div>
 
