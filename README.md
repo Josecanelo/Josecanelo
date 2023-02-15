@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdiMmVmNjk2NzI5NDA1ODcxOTk4NGY1YWZhZjRiOTJlNjQxYWNkNyZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="200">
   <h1 align="center"> Hi👋, I'm José Canelo 🚀</h1>
   <h3 align="center">
- Hello, my name is Jose and I'm from Cordoba, Argentina. I love challenges, games and teaching. I studied Fullstack programming at "Soy Henry". My strengths are my logical and analytical  thinking, my proactivity, effectiveness, efficiency, perseverance, and dedication. I am looking for a company or startup that aligns with my ideals, where I can contribute my knowledge, learn from it, and continue to develop my skills in the world of web programming.
+ Hello, my name is Jose and I'm from Cordoba, Argentina. I love challenges, games and teaching. I studied Fullstack programming at Soy Henry. My strengths are my logical and analytical  thinking, my proactivity, effectiveness, efficiency, perseverance, and dedication. I am looking for a company or startup that aligns with my ideals, where I can contribute my knowledge, learn from it, and continue to develop my skills in the world of web programming.
 Contact with me: yojose_6@hotmail.com
   </h3>
 </div>
