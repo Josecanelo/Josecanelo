@@ -7,6 +7,7 @@ Contact with me: yojose_6@hotmail.com
   </h3>
 </div>
 <div>
+  - 📫 How to reach me **yojose_6@hotmail.com**
   <h1>Connect with me</h1>
   Feel free to reach out to me at yojose_6@hotmail.com or at <a href="https://www.linkedin.com/in/josé-ignacio-canelo-06ba71223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé ignacio canelo" height="30" width="40" /></a>
 </div>
